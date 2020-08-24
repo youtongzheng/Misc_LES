@@ -1,2 +1,2 @@
 # Misc_LES
-Small projects investigating the larg-eddy simulations of clouds.  
+Small projects investigating the large-eddy simulations of clouds.  
